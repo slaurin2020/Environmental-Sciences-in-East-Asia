@@ -4,5 +4,7 @@
 
 \footnote{Statement of Contributions-- For example, ``The chapter was first drafted by Marc Los Huertos (2021). The author recieved valuable feedback from X, and Y and Z to improve the chapter. Slater revised the chapter in 2022 with suggestions from Cater.'' Note: I am still working on the formatting for this to improve it.}
 
-\section{Section Heading}% Avoid putting text between section and subsection headings.
+\section{Introduction}% Avoid putting text between section and subsection headings.
+
+	Trekking through the forests of Borneo, a traveller is overwhelmed by the beauty of this South-Asian Island. Their rainforests are famous for their natural beauty and ancient species. As an island, native species in Borneo have been isolated from mainland Asia, allowing for independent evolution to take place with its species, making Borneo uniquely diverse with species endemic to the island. The traveller may find over 1,000 different species in just one tree if they look closely (WWF). But Borneo's incredible biodiversity, like so many other East-Asian countries, is under threat. In our travels to Borneo, humans have brought invasive species to many East-Asian countries that threaten their unique biodiversity. What's more, through the wildlife trade we have also taken East-Asian species from their homes and threatened other areas with East-Asian invasive species. With the influx of invasive species, native biodiversity in East-Asia has been threatened. Invasive species are the driving force behind biodiversity loss in East Asia.
 
